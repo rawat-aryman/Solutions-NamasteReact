@@ -1,0 +1,3 @@
+Q1. what is Emmet?
+ans: Emmet is an extension available in VS Code, which provides abbreviations that can be used in place for a particular piece of code. 
+Emmet helps us in writing HTML, CSS, etc. very fast. We have to setup emmet for react by downloading extension which supports it.

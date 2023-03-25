@@ -1,0 +1,4 @@
+Library: it is a collection of pre-written code which can be used to perform common tasks or add a functionality to a program>
+Your code calls the library.
+
+Framework: It is a collection of pre-written code which can be used to build software applications. A framework calls your code.

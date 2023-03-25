@@ -1,0 +1,4 @@
+React is k/a react because it allows developers to 'react' to the changes in the state and data within the application and also update the UI of the application in a declarative and efficient manner.
+React has the ability to respond to the data changes.
+The library is built around the concept of unidirectional data flow which means data flows through the hierarchy i.e. from the parent component to the child component making necessary data updates and re-rendering where required.
+This also helps in avoiding problems with 2-way data binding such as performance issues and hard=to-debug code.

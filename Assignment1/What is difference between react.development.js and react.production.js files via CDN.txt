@@ -1,0 +1,1 @@
+1. Development fiies and the production files contains the same react code but the code present in the production files is more optimized because it is used for production purposes.

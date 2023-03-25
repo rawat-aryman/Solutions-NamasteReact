@@ -1,0 +1,4 @@
+Before v14, react and reactDOM were a part of the same library, but after the v14 they were divided into 2 different library.
+1. ReactDOM - it relates the react with the DOM, which provides one major function which is ReactDOM.render() which is mainly used for mounting elements in react.
+
+2. React - For everything else we use react. 

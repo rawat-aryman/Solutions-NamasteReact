@@ -1,0 +1,1 @@
+Crossorigin: It is an attribute used with the script tag, which is used to manage requests for a resource from another domain, which requests for a resource on another server.

@@ -1,0 +1,5 @@
+1. async and defer both are boolean values that are used with the script tag which describes way of the script file will be processed.
+2. Using async, when a html parser encounters a script tag, it downloads the script file asynchronously and when downloaded, it executes the script file first and then continues the execution of the html.
+3. Using defer, when a html parser encounters a script tag, it downloads the script file asynchronously and executes it when the html parsing is completed.
+
+Note: using defer maintains the order of execution of script files whereas async does not. So, it is advised to use defer in most cases.s
